@@ -1,15 +1,17 @@
 /*
 * multi-line comment
 */
-p{ line-height: 1em; }
+p{ line-height: 1.2em; 
+   font-size: 1.2em;
+}
 h1, h2, h3, h4{
     color: orange;
 	font-weight: normal;
 	line-height: 1.1em;
 	margin: 0 0 .5em 0;
 }
-h1{ font-size: 1.7em; }
-h2{ font-size: 1.5em; }
+h1{ font-size: 3em; }
+h2{ font-size: 2em; }
 a{
 	color: black;
 	text-decoration: none;
